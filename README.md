@@ -21,11 +21,10 @@ This repository contains an in-depth exploratory data analysis of road accident 
 
 ## Recommendations
 1. **Urban Traffic Control:** Intensify monitoring and safety measures in urban centers where private car accidents concentrate.
-2. **Single Carriageway Safety:** Implement enhanced road engineering and clear signage on single carriageway routes.
-3. ![Dashboard](road-accident-analysis)
-
-4. **Peak Time Patrols:** Increase traffic patrols and awareness campaigns during peak accident windows (Fridays and autumn months).
+2. **Single Carriageway Safety:** Implement enhanced road engineering and clear signage on single carriageway routes
+3. **Peak Time Patrols:** Increase traffic patrols and awareness campaigns during peak accident windows (Fridays and autumn months).
 
 ## Repository Structure
 - `Road Accident Data.csv`: The cleaned dataset used for this analysis.
 - `README.md`: Project documentation.
+- ![Road Accident Analysis](road-accident-analysis.png)
